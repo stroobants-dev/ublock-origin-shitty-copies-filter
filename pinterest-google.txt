@@ -1,0 +1,2 @@
+google.*##.g:has(a[href*=".pinterest.*"])
+google.*##a[href*=".pinterest."]:upward(1)

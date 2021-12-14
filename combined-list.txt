@@ -1,0 +1,396 @@
+duckduckgo.*##.results > div:has(a[href*="bleepcoder.com"])
+duckduckgo.*##.results > div:has(a[href*="githubja.com"])
+duckduckgo.*##.results > div:has(a[href*="gitmemory.com"])
+duckduckgo.*##.results > div:has(a[href*="giters.com"])
+duckduckgo.*##.results > div:has(a[href*="githubmemory.com"])
+duckduckgo.*##.results > div:has(a[href*="wenyanet.com"])
+duckduckgo.*##.results > div:has(a[href*="issueexplorer.com"])
+duckduckgo.*##.results > div:has(a[href*="opensourcelibs.com"])
+duckduckgo.*##.results > div:has(a[href*="awesomeopensource.com"])
+duckduckgo.*##.results > div:has(a[href*="findbestopensource.com"])
+duckduckgo.*##.results > div:has(a[href*="githubhelp.com"])
+google.*##.g:has(a[href*="bleepcoder.com"])
+google.*##.g:has(a[href*="githubja.com"])
+google.*##.g:has(a[href*="gitmemory.com"])
+google.*##.g:has(a[href*="giters.com"])
+google.*##.g:has(a[href*="githubmemory.com"])
+google.*##.g:has(a[href*="wenyanet.com"])
+google.*##.g:has(a[href*="issueexplorer.com"])
+google.*##.g:has(a[href*="opensourcelibs.com"])
+google.*##.g:has(a[href*="awesomeopensource.com"])
+google.*##.g:has(a[href*="findbestopensource.com"])
+google.*##.g:has(a[href*="githubhelp.com"])
+*://bleepcoder.com/*
+*://githubja.com/*
+*://*.gitmemory.com/*
+*://giters.com/*
+*://githubmemory.com/*
+*://*.wenyanet.com/*
+*://issueexplorer.com/*
+*://opensourcelibs.com/*
+*://awesomeopensource.com/*
+*://findbestopensource.com/*
+*://githubhelp.com/*
+duckduckgo.*##.results > div:has(a[href*="pinterest."])
+google.*##.g:has(a[href*=".pinterest.*"])
+google.*##a[href*=".pinterest."]:upward(1)
+*://*.pinterest.com/*
+*://www.pinterest.com/*
+*://www.pinterest.nz/*
+*://www.pinterest.ph/*
+*://investor.pinterestinc.com/*
+*://www.pinterestcareers.com/*
+*://www.pinterest.cl/*
+*://www.pinterest.co.uk/*
+*://www.pinterest.at/*
+*://www.pinterest.ie/*
+*://www.pinterest.es/*
+*://www.pinterest.com.au/*
+*://www.pinterest.com.mx/*
+*://www.pinterest.ca/*
+*://www.pinterest.dk/*
+*://www.pinterest.fr/*
+https://apps.apple.com/us/app/pinterest/id429047995
+https://www.microsoft.com/en-us/p/pinterest/9pfhdsf91b9r
+https://play.google.com/store/apps/details?id=com.pinterest*
+https://www.amazon.com/Pinterest-Inc/dp/B008XG1X18
+https://www.instagram.com/pinterest/
+duckduckgo.*##.results > div:has(a[href*="code-examples.net"])
+duckduckgo.*##.results > div:has(a[href*="kotaeta.com"])
+duckduckgo.*##.results > div:has(a[href*="answer-id.com"])
+duckduckgo.*##.results > div:has(a[href*="code.i-harness.com"])
+duckduckgo.*##.results > div:has(a[href*="living-sun.com"])
+duckduckgo.*##.results > div:has(a[href*="qastack.jp"])
+duckduckgo.*##.results > div:has(a[href*="qastack.ru"])
+duckduckgo.*##.results > div:has(a[href*="qastack.it"])
+duckduckgo.*##.results > div:has(a[href*="qastack.mx"])
+duckduckgo.*##.results > div:has(a[href*="qastack.com.br"])
+duckduckgo.*##.results > div:has(a[href*="qastack.info.tr"])
+duckduckgo.*##.results > div:has(a[href*="qastack.in.th"])
+duckduckgo.*##.results > div:has(a[href*="qastack.com.de"])
+duckduckgo.*##.results > div:has(a[href*="qastack.fr"])
+duckduckgo.*##.results > div:has(a[href*="qastack.cn"])
+duckduckgo.*##.results > div:has(a[href*="qastack.com.ua"])
+duckduckgo.*##.results > div:has(a[href*="qastack.co.in"])
+duckduckgo.*##.results > div:has(a[href*="qastack.kr"])
+duckduckgo.*##.results > div:has(a[href*="qastack.vn"])
+duckduckgo.*##.results > div:has(a[href*="qastack.net.bd"])
+duckduckgo.*##.results > div:has(a[href*="qa-stack.pl"])
+duckduckgo.*##.results > div:has(a[href*="qastack.id"])
+duckduckgo.*##.results > div:has(a[href*="www.coder.work"])
+duckduckgo.*##.results > div:has(a[href*="www.it-swarm-ja.tech"])
+duckduckgo.*##.results > div:has(a[href*="www.it-swarm.jp.net"])
+duckduckgo.*##.results > div:has(a[href*="www.it-mure.jp.net"])
+duckduckgo.*##.results > div:has(a[href*="www.it-swarm-ja.com"])
+duckduckgo.*##.results > div:has(a[href*="www.it-swarm.com.ru"])
+duckduckgo.*##.results > div:has(a[href*="codeflow.site"])
+duckduckgo.*##.results > div:has(a[href*="codeguides.site"])
+duckduckgo.*##.results > div:has(a[href*="overcoder.net"])
+duckduckgo.*##.results > div:has(a[href*="coderoad.ru"])
+duckduckgo.*##.results > div:has(a[href*="www.generacodice.blog"])
+duckduckgo.*##.results > div:has(a[href*="www.generacodice.it"])
+duckduckgo.*##.results > div:has(a[href*="www.generacodice.com"])
+duckduckgo.*##.results > div:has(a[href*="www.javaer101.com"])
+duckduckgo.*##.results > div:has(a[href*="voidcc.com"])
+duckduckgo.*##.results > div:has(a[href*="siwib.org"])
+duckduckgo.*##.results > div:has(a[href*="fluffyfables.com"])
+duckduckgo.*##.results > div:has(a[href*="www.fixes.pub"])
+duckduckgo.*##.results > div:has(a[href*="knews.vip"])
+duckduckgo.*##.results > div:has(a[href*="isolution.pro"])
+duckduckgo.*##.results > div:has(a[href*="uwenku.com"])
+duckduckgo.*##.results > div:has(a[href*="lycaeum.dev"])
+duckduckgo.*##.results > div:has(a[href*="brocante.dev"])
+duckduckgo.*##.results > div:has(a[href*="classmethod.dev"])
+duckduckgo.*##.results > div:has(a[href*="stormcrow.dev"])
+duckduckgo.*##.results > div:has(a[href*="athabasca-foto.com"])
+duckduckgo.*##.results > div:has(a[href*="zsharp.org"])
+duckduckgo.*##.results > div:has(a[href*="projectbackpack.org"])
+duckduckgo.*##.results > div:has(a[href*="waymanamechurch.org"])
+duckduckgo.*##.results > div:has(a[href*="sunflowercreations.org"])
+duckduckgo.*##.results > div:has(a[href*="cfadnc.org"])
+duckduckgo.*##.results > div:has(a[href*="fitforlearning.org"])
+duckduckgo.*##.results > div:has(a[href*="panaindustrial.com"])
+duckduckgo.*##.results > div:has(a[href*="sierrasummit2005.org"])
+duckduckgo.*##.results > div:has(a[href*="theshuggahpies.com"])
+duckduckgo.*##.results > div:has(a[href*="pcbconline.org"])
+duckduckgo.*##.results > div:has(a[href*="www.nuomiphp.com"])
+duckduckgo.*##.results > div:has(a[href*="ubuntu.buildwebhost.com"])
+duckduckgo.*##.results > div:has(a[href*="ubuntuaa.com"])
+duckduckgo.*##.results > div:has(a[href*="www.debugcn.com"])
+duckduckgo.*##.results > div:has(a[href*="sch22.org"])
+duckduckgo.*##.results > div:has(a[href*="gupgallery.com"])
+duckduckgo.*##.results > div:has(a[href*="amuddycup.com"])
+duckduckgo.*##.results > div:has(a[href*="ecnf2016.org"])
+duckduckgo.*##.results > div:has(a[href*="softwareuser.asklobster.com"])
+duckduckgo.*##.results > div:has(a[href*="domainelespailles.net"])
+duckduckgo.*##.results > div:has(a[href*="ec-europe.org"])
+duckduckgo.*##.results > div:has(a[href*="pakostnici.com"])
+duckduckgo.*##.results > div:has(a[href*="try2explore.com"])
+duckduckgo.*##.results > div:has(a[href*="laravelquestions.com"])
+duckduckgo.*##.results > div:has(a[href*="itectec.com"])
+duckduckgo.*##.results > div:has(a[href*="stackovergo.com"])
+duckduckgo.*##.results > div:has(a[href*="faithcov.org"])
+duckduckgo.*##.results > div:has(a[href*="noblenaz.org"])
+duckduckgo.*##.results > div:has(a[href*="www.py4u.net"])
+duckduckgo.*##.results > div:has(a[href*="culinarydegree.info"])
+duckduckgo.*##.results > div:has(a[href*="safehavenpetrescue.org"])
+duckduckgo.*##.results > div:has(a[href*="qapicks.com"])
+duckduckgo.*##.results > div:has(a[href*="issues-world.com"])
+duckduckgo.*##.results > div:has(a[href*="narkive.jp"])
+duckduckgo.*##.results > div:has(a[href*="ourladylakes.org"])
+duckduckgo.*##.results > div:has(a[href*="intellipaat.com"])
+duckduckgo.*##.results > div:has(a[href*="article.docway.net"])
+duckduckgo.*##.results > div:has(a[href*="xiu2.net"])
+duckduckgo.*##.results > div:has(a[href*="codehero.jp"])
+duckduckgo.*##.results > div:has(a[href*="quabr.com"])
+duckduckgo.*##.results > div:has(a[href*="www.webdevqa.jp.net"])
+duckduckgo.*##.results > div:has(a[href*="qapicks.com"])
+duckduckgo.*##.results > div:has(a[href*="exceptionshub.com"])
+duckduckgo.*##.results > div:has(a[href*="newbedev.com"])
+duckduckgo.*##.results > div:has(a[href*="www.codenong.com"])
+duckduckgo.*##.results > div:has(a[href*="cainiaojiaocheng.com"])
+duckduckgo.*##.results > div:has(a[href*="routinepanic.com"])
+duckduckgo.*##.results > div:has(a[href*="pythonwd.com"])
+duckduckgo.*##.results > div:has(a[href*="tutorialmore.com"])
+duckduckgo.*##.results > div:has(a[href*="alwaysemmyhope.com"])
+duckduckgo.*##.results > div:has(a[href*="pretagteam.com"])
+duckduckgo.*##.results > div:has(a[href*="www.titanwolf.org"])
+duckduckgo.*##.results > div:has(a[href*="coderedirect.com"])
+duckduckgo.*##.results > div:has(a[href*="ostack.cn"])
+duckduckgo.*##.results > div:has(a[href*="easysavecode.com"])
+duckduckgo.*##.results > div:has(a[href*="webdevdesigner.com"])
+duckduckgo.*##.results > div:has(a[href*="www.ghcc.net"])
+duckduckgo.*##.results > div:has(a[href*="developreference.com"])
+duckduckgo.*##.results > div:has(a[href*="www.semicolonworld.com"])
+duckduckgo.*##.results > div:has(a[href*="tipsfordev.com"])
+duckduckgo.*##.results > div:has(a[href*="www.qi-u.com"])
+duckduckgo.*##.results > div:has(a[href*="stackqna.com"])
+duckduckgo.*##.results > div:has(a[href*="www.xsprogram.com"])
+duckduckgo.*##.results > div:has(a[href*="stackoom.com"])
+duckduckgo.*##.results > div:has(a[href*="it-swarm-fr.com"])
+google.*##.g:has(a[href*="code-examples.net"])
+google.*##.g:has(a[href*="kotaeta.com"])
+google.*##.g:has(a[href*="answer-id.com"])
+google.*##.g:has(a[href*="code.i-harness.com"])
+google.*##.g:has(a[href*="living-sun.com"])
+google.*##.g:has(a[href*="qastack.jp"])
+google.*##.g:has(a[href*="qastack.ru"])
+google.*##.g:has(a[href*="qastack.it"])
+google.*##.g:has(a[href*="qastack.mx"])
+google.*##.g:has(a[href*="qastack.com.br"])
+google.*##.g:has(a[href*="qastack.info.tr"])
+google.*##.g:has(a[href*="qastack.in.th"])
+google.*##.g:has(a[href*="qastack.com.de"])
+google.*##.g:has(a[href*="qastack.fr"])
+google.*##.g:has(a[href*="qastack.cn"])
+google.*##.g:has(a[href*="qastack.com.ua"])
+google.*##.g:has(a[href*="qastack.co.in"])
+google.*##.g:has(a[href*="qastack.kr"])
+google.*##.g:has(a[href*="qastack.vn"])
+google.*##.g:has(a[href*="qastack.net.bd"])
+google.*##.g:has(a[href*="qa-stack.pl"])
+google.*##.g:has(a[href*="qastack.id"])
+google.*##.g:has(a[href*="www.coder.work"])
+google.*##.g:has(a[href*="www.it-swarm-ja.tech"])
+google.*##.g:has(a[href*="www.it-swarm.jp.net"])
+google.*##.g:has(a[href*="www.it-mure.jp.net"])
+google.*##.g:has(a[href*="www.it-swarm-ja.com"])
+google.*##.g:has(a[href*="www.it-swarm.com.ru"])
+google.*##.g:has(a[href*="codeflow.site"])
+google.*##.g:has(a[href*="codeguides.site"])
+google.*##.g:has(a[href*="overcoder.net"])
+google.*##.g:has(a[href*="coderoad.ru"])
+google.*##.g:has(a[href*="www.generacodice.blog"])
+google.*##.g:has(a[href*="www.generacodice.it"])
+google.*##.g:has(a[href*="www.generacodice.com"])
+google.*##.g:has(a[href*="www.javaer101.com"])
+google.*##.g:has(a[href*="voidcc.com"])
+google.*##.g:has(a[href*="siwib.org"])
+google.*##.g:has(a[href*="fluffyfables.com"])
+google.*##.g:has(a[href*="www.fixes.pub"])
+google.*##.g:has(a[href*="knews.vip"])
+google.*##.g:has(a[href*="isolution.pro"])
+google.*##.g:has(a[href*="uwenku.com"])
+google.*##.g:has(a[href*="lycaeum.dev"])
+google.*##.g:has(a[href*="brocante.dev"])
+google.*##.g:has(a[href*="classmethod.dev"])
+google.*##.g:has(a[href*="stormcrow.dev"])
+google.*##.g:has(a[href*="athabasca-foto.com"])
+google.*##.g:has(a[href*="zsharp.org"])
+google.*##.g:has(a[href*="projectbackpack.org"])
+google.*##.g:has(a[href*="waymanamechurch.org"])
+google.*##.g:has(a[href*="sunflowercreations.org"])
+google.*##.g:has(a[href*="cfadnc.org"])
+google.*##.g:has(a[href*="fitforlearning.org"])
+google.*##.g:has(a[href*="panaindustrial.com"])
+google.*##.g:has(a[href*="sierrasummit2005.org"])
+google.*##.g:has(a[href*="theshuggahpies.com"])
+google.*##.g:has(a[href*="pcbconline.org"])
+google.*##.g:has(a[href*="www.nuomiphp.com"])
+google.*##.g:has(a[href*="ubuntu.buildwebhost.com"])
+google.*##.g:has(a[href*="ubuntuaa.com"])
+google.*##.g:has(a[href*="www.debugcn.com"])
+google.*##.g:has(a[href*="sch22.org"])
+google.*##.g:has(a[href*="gupgallery.com"])
+google.*##.g:has(a[href*="amuddycup.com"])
+google.*##.g:has(a[href*="ecnf2016.org"])
+google.*##.g:has(a[href*="softwareuser.asklobster.com"])
+google.*##.g:has(a[href*="domainelespailles.net"])
+google.*##.g:has(a[href*="ec-europe.org"])
+google.*##.g:has(a[href*="pakostnici.com"])
+google.*##.g:has(a[href*="try2explore.com"])
+google.*##.g:has(a[href*="laravelquestions.com"])
+google.*##.g:has(a[href*="itectec.com"])
+google.*##.g:has(a[href*="stackovergo.com"])
+google.*##.g:has(a[href*="faithcov.org"])
+google.*##.g:has(a[href*="noblenaz.org"])
+google.*##.g:has(a[href*="www.py4u.net"])
+google.*##.g:has(a[href*="culinarydegree.info"])
+google.*##.g:has(a[href*="safehavenpetrescue.org"])
+google.*##.g:has(a[href*="qapicks.com"])
+google.*##.g:has(a[href*="issues-world.com"])
+google.*##.g:has(a[href*="narkive.jp"])
+google.*##.g:has(a[href*="ourladylakes.org"])
+google.*##.g:has(a[href*="intellipaat.com"])
+google.*##.g:has(a[href*="article.docway.net"])
+google.*##.g:has(a[href*="xiu2.net"])
+google.*##.g:has(a[href*="codehero.jp"])
+google.*##.g:has(a[href*="quabr.com"])
+google.*##.g:has(a[href*="www.webdevqa.jp.net"])
+google.*##.g:has(a[href*="qapicks.com"])
+google.*##.g:has(a[href*="exceptionshub.com"])
+google.*##.g:has(a[href*="newbedev.com"])
+google.*##.g:has(a[href*="www.codenong.com"])
+google.*##.g:has(a[href*="cainiaojiaocheng.com"])
+google.*##.g:has(a[href*="routinepanic.com"])
+google.*##.g:has(a[href*="pythonwd.com"])
+google.*##.g:has(a[href*="tutorialmore.com"])
+google.*##.g:has(a[href*="alwaysemmyhope.com"])
+google.*##.g:has(a[href*="pretagteam.com"])
+google.*##.g:has(a[href*="www.titanwolf.org"])
+google.*##.g:has(a[href*="coderedirect.com"])
+google.*##.g:has(a[href*="ostack.cn"])
+google.*##.g:has(a[href*="easysavecode.com"])
+google.*##.g:has(a[href*="webdevdesigner.com"])
+google.*##.g:has(a[href*="www.ghcc.net"])
+google.*##.g:has(a[href*="developreference.com"])
+google.*##.g:has(a[href*="www.semicolonworld.com"])
+google.*##.g:has(a[href*="tipsfordev.com"])
+google.*##.g:has(a[href*="www.qi-u.com"])
+google.*##.g:has(a[href*="stackqna.com"])
+google.*##.g:has(a[href*="www.xsprogram.com"])
+google.*##.g:has(a[href*="stackoom.com"])
+google.*##.g:has(a[href*="it-swarm-fr.com"])
+*://code-examples.net/*
+*://kotaeta.com/*
+*://answer-id.com/*
+*://code.i-harness.com/*
+*://living-sun.com/*
+*://qastack.jp/*
+*://qastack.ru/*
+*://qastack.it/*
+*://qastack.mx/*
+*://qastack.com.br/*
+*://qastack.info.tr/*
+*://qastack.in.th/*
+*://qastack.com.de/*
+*://qastack.fr/*
+*://qastack.cn/*
+*://qastack.com.ua/*
+*://qastack.co.in/*
+*://qastack.kr/*
+*://qastack.vn/*
+*://qastack.net.bd/*
+*://qa-stack.pl/*
+*://qastack.id/*
+*://www.coder.work/*
+*://www.it-swarm-ja.tech/*
+*://www.it-swarm.jp.net/*
+*://www.it-mure.jp.net/*
+*://www.it-swarm-ja.com/*
+*://www.it-swarm.com.ru/*
+*://*.codeflow.site/*
+*://codeguides.site/*
+*://overcoder.net/*
+*://coderoad.ru/*
+*://www.generacodice.blog/*
+*://www.generacodice.it/*
+*://www.generacodice.com/*
+*://www.javaer101.com/*
+*://*.voidcc.com/*
+*://*.siwib.org/*
+*://*.fluffyfables.com/*
+*://www.fixes.pub/*
+*://knews.vip/*
+*://isolution.pro/*
+*://*.uwenku.com/*
+*://lycaeum.dev/*
+*://brocante.dev/*
+*://classmethod.dev/*
+*://stormcrow.dev/*
+*://*.athabasca-foto.com/*
+*://*.zsharp.org/*
+*://*.projectbackpack.org/*
+*://*.waymanamechurch.org/*
+*://*.sunflowercreations.org/*
+*://*.cfadnc.org/*
+*://*.fitforlearning.org/*
+*://*.panaindustrial.com/*
+*://*.sierrasummit2005.org/*
+*://*.theshuggahpies.com/*
+*://*.pcbconline.org/*
+*://www.nuomiphp.com/*
+*://ubuntu.buildwebhost.com/*
+*://ubuntuaa.com/*
+*://www.debugcn.com/*
+*://*.sch22.org/*
+*://*.gupgallery.com/*
+*://*.amuddycup.com/*
+*://*.ecnf2016.org/*
+*://*.softwareuser.asklobster.com/*
+*://*.domainelespailles.net/*
+*://*.ec-europe.org/*
+*://*.pakostnici.com/*
+*://*.try2explore.com/*
+*://laravelquestions.com/*
+*://itectec.com/*
+*://stackovergo.com/*
+*://*.faithcov.org/*
+*://*.noblenaz.org/*
+*://www.py4u.net/*
+*://*.culinarydegree.info/*
+*://*.safehavenpetrescue.org/*
+*://qapicks.com/*
+*://issues-world.com/*
+*://*.narkive.jp/*
+*://*.ourladylakes.org/*
+*://intellipaat.com/*
+*://article.docway.net/*
+*://xiu2.net/*
+*://codehero.jp/*
+*://quabr.com/*
+*://www.webdevqa.jp.net/*
+*://qapicks.com/*
+*://exceptionshub.com/*
+*://newbedev.com/*
+*://www.codenong.com/*
+*://cainiaojiaocheng.com/*
+*://routinepanic.com/*
+*://pythonwd.com/*
+*://tutorialmore.com/*
+*://alwaysemmyhope.com/*
+*://pretagteam.com/*
+*://www.titanwolf.org/*
+*://coderedirect.com/*
+*://ostack.cn/*
+*://easysavecode.com/*
+*://webdevdesigner.com/*
+*://www.ghcc.net/*
+*://*.developreference.com/*
+*://www.semicolonworld.com/*
+*://tipsfordev.com/*
+*://www.qi-u.com/*
+*://stackqna.com/*
+*://www.xsprogram.com/*
+*://stackoom.com/*
+*://*.it-swarm-fr.com/* 
