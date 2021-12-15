@@ -111,3 +111,4 @@
 *://www.xsprogram.com/*
 *://stackoom.com/*
 *://*.it-swarm-fr.com/* 
+*://*.imtqy.com/*
