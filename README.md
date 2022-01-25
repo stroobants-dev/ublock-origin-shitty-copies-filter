@@ -7,8 +7,7 @@ This list is just a personal collection of annoying, unhelpful websites.
 ## Generate the combined list
 
 ```bash
-rm combined-list.txt
-cat *.txt >> combined-list.txt
+make all
 ```
 
 ## Import into uBlock Origin
