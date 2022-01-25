@@ -9,3 +9,14 @@
 *://awesomeopensource.com/*
 *://findbestopensource.com/*
 *://githubhelp.com/*
+*://pythonissues.com/*
+*://golangrepo.com/*
+*://gitmemory.cn/*
+*://githubmate.com/*
+*://reposhub.com/*
+*://gitanswer.com/*
+*://githubplus.com/*
+*://pythonrepo.com/*
+*://bestofcpp.com/*
+*://github.innominds.com/*
+*://www.higithub.com/*
